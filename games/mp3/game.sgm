@@ -1,0 +1,6 @@
+name=mp3 SoundStream Demo
+author=Bruce Pascoe
+description=
+screen_width=1024
+screen_height=768
+script=main.js
